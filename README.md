@@ -22,6 +22,17 @@ Software Engineer with experience in full-stack development, AI-integrated appli
 
 ---
 
+## 💼 Experience
+
+### 💻 Software Developer (1.3 Years Experience)
+
+- Built and deployed full-stack applications using MERN stack and FastAPI  
+- Developed AI-powered systems using **RAG, LLMs, and LangChain**  
+- Designed scalable backend APIs and real-time systems  
+- Worked on multiple production-level projects involving **APIs, databases, and system design**
+
+---
+
 
 ## 🎯 Current Focus
 - MERN Stack Development
@@ -110,14 +121,40 @@ Software Engineer with experience in full-stack development, AI-integrated appli
 
 ---
 
-## 🛠️ Tech Stack
-- 💻 Languages: JavaScript, Python, C++
-- ⚛️ Frontend: React, Tailwind CSS
-- 🔧 Backend: Node.js, Express, FastAPI
-- - 🧠 AI/ML: LangChain, LangGraph
-- 🗄️ Databases: MySQL, PostgreSQL, MongoDB, NoSQL
-- - 🔄 Version Control: Git, GitHub  
-- 🚀 Other: RESTful APIs, WebSockets, Docker, AWS, CI/CD, Kubernetes 
+## 🛠️ Technical Expertise
+
+<div align="center">
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🔧 Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🤖 AI & LLM
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F61?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ☁️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
@@ -125,6 +162,8 @@ Software Engineer with experience in full-stack development, AI-integrated appli
 ## 🏆 Achievements
 
 - 🚀 Solved **750+ coding problems on LeetCode**
+- 💡 Built multiple **AI + Full Stack production-ready projects**
+- ⚡ Hands-on experience with **RAG, LLMs, and scalable backend systems**
 
 ---
 
@@ -139,19 +178,16 @@ Software Engineer with experience in full-stack development, AI-integrated appli
 ---
 
 
-## 🌐 Connect With Me
+## 🤝 Professional Network
 
-<p align="left">
+<div align="center">
 
-<a href="https://linkedin.com/in/neha-bhatt-46301a22b">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neha-bhatt-46301a22b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NehaBhatt57)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehabhatt7575@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918194063569)
 
-<a href="mailto:nehabhatt7575@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+</div>
 
 ---
 
