@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full Stack Developer | AI & RAG Systems Builder 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;AI+%26+RAG+Systems+Builder;FastAPI+%7C+MERN+Developer;Building+Scalable+Applications&center=true&width=500&height=100">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;AI+%26+RAG+Systems+Builder;FastAPI+%7C+MERN+Developer;Building+Scalable+Applications&center=true&width=800&height=100&size=35&pause=1000">
 </p>
 
 ---
