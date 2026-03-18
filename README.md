@@ -1,16 +1,44 @@
-# Hello, I'm Neha Bhatt 👩‍💻
+<h1 align="center">Hi 👋, I'm Neha Bhatt</h1>
+<h3 align="center">Full Stack Developer | Backend Engineer | AI Enthusiast 🚀</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;AI+%26+RAG+Developer;FastAPI+%7C+React+%7C+Node.js&center=true&width=600&height=50)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Engineer;AI+%26+RAG+Systems+Builder;FastAPI+%7C+MERN+Developer;Always+Learning+New+Tech&center=true&width=500&height=50">
+</p>
+
+---
 
 ## 🚀 Professional Summary
 Software Engineer with experience in full-stack development, AI-integrated applications, and real-time systems. Proficient in building scalable web applications using modern technologies and designing high-performance, maintainable software solutions. Seeking a challenging software development role to contribute to innovative products while continuously improving system scalability, performance, and user experience.
 
 ---
 
+## 🚀 About Me
+
+- 💻 Software Engineer 
+- 🤖 Building **AI-powered applications using RAG & LLMs**  
+- 📊 Strong in **Data Handling, APIs, and System Design**  
+- 🌱 Currently exploring **LangGraph, Advanced RAG, and AI Systems**  
+- 🎯 Goal: Become a **Software Engineer in top tech companies**
+
+---
+
+
 ## 🎯 Current Focus
 - MERN Stack Development
 - AI + RAG based systems
 - Backend APIs & Automation Projects
+
+
+---
+
+
+## 🧠 AI & Development Focus
+
+- Retrieval-Augmented Generation (RAG)
+- LLM Applications & Prompt Engineering
+- Backend APIs (FastAPI, Node.js)
+- Full Stack Development (MERN)
+- System Design & Scalable Architectures
 
 ---
 
@@ -93,11 +121,46 @@ Software Engineer with experience in full-stack development, AI-integrated appli
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=NehaBhatt57&show_icons=true)
+
+## 🏆 Achievements
+
+- 🚀 Solved **750+ coding problems on LeetCode**
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/neha-bhatt-46301a22b
-- Email: nehabhatt7575@gmail.com
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NehaBhatt57&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NehaBhatt57&theme=tokyonight"/>
+</p>
+
+---
+
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/neha-bhatt-46301a22b">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:nehabhatt7575@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+## 💭 Quote
+
+> *"Code. Learn. Build. Repeat."* 🚀
+
+---
+
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
