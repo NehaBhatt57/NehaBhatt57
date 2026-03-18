@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Neha Bhatt</h1>
-<h3 align="center">Full Stack Developer | Backend Engineer | AI Enthusiast 🚀</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | AI & RAG Systems Builder 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Engineer;AI+%26+RAG+Systems+Builder;FastAPI+%7C+MERN+Developer;Always+Learning+New+Tech&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full+Stack+Developer;AI+%26+RAG+Systems+Builder;FastAPI+%7C+MERN+Developer;Building+Scalable+Applications&center=true&width=500&height=100">
 </p>
 
 ---
