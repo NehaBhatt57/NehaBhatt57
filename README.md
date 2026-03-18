@@ -56,70 +56,150 @@ Software Engineer with experience in full-stack development, AI-integrated appli
 ## 💼 Projects
 
 ### 🔹 AI Codebase Explainer
-**Technologies:** LangChain, ChromaDB, FastAPI, Streamlit  
-- Built an AI-powered tool that analyzes software repositories to understand and explain the overall codebase structure.  
-- Detects technologies, frameworks, and dependencies and generates explanations of workflows.  
-- Helps developers quickly onboard to new projects.  
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+</div>
+
+- Built an AI-powered tool that analyzes software repositories to understand and explain the overall codebase structure  
+- Detects technologies, frameworks, and dependencies and generates explanations of workflows  
+- Helps developers quickly onboard to new projects  
 
 ---
 
 ### 🔹 Student Corner (Generative AI)
-**Technologies:** React.js, LangChain, LangGraph, FastAPI  
-- Developed an AI-powered platform for generating MCQs and answering queries from PDFs.  
-- Integrated LLM orchestration using LangChain & LangGraph.  
-- Designed scalable backend APIs using FastAPI.  
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F61?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+</div>
+
+- Developed an AI-powered platform for generating MCQs and answering queries from PDFs  
+- Integrated LLM orchestration using LangChain & LangGraph  
+- Designed scalable backend APIs using FastAPI  
 
 ---
 
 ### 🔹 Multimodal RAG System with Hybrid Retrieval
-**Technologies:** Python, FastAPI, ChromaDB, BM25, OpenAI  
-- Implemented hybrid retrieval combining keyword + semantic search using RRF.  
-- Built full pipeline: document upload → chunking → embeddings → retrieval → answer generation.  
-- Improved accuracy with re-ranking and sentence-level extraction.  
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat)
+![BM25](https://img.shields.io/badge/BM25-000000?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat)
+
+</div>
+
+- Implemented hybrid retrieval combining keyword + semantic search using RRF  
+- Built full pipeline: document upload → chunking → embeddings → retrieval → answer generation  
+- Improved accuracy with re-ranking and sentence-level extraction  
 
 ---
 
 ### 🔹 Resume Builder
-**Technologies:** React.js, Tailwind CSS, Node.js, Express.js  
-- Developed a resume builder with customizable templates.  
-- Implemented PDF generation and download functionality.  
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat)
+
+</div>
+
+- Developed a resume builder with customizable templates  
+- Implemented PDF generation and download functionality  
 
 ---
 
 ### 🔹 Blogging Platform
-**Technologies:** React, Tailwind CSS, PHP, MySQL  
-- Built a full-stack blogging platform with authentication and dashboard.  
-- Implemented CRUD operations for blog management.  
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+
+</div>
+
+- Built a full-stack blogging platform with authentication and dashboard  
+- Implemented CRUD operations for blog management  
 
 ---
 
 ### 🔹 Quiz Application
-**Technologies:** React.js, API Integration, Tailwind CSS  
-- Built an interactive quiz app with real-time scoring and progress tracking.  
-- Implemented API-based question fetching and navigation system.  
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![API](https://img.shields.io/badge/API-000000?style=flat)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat)
+
+</div>
+
+- Built an interactive quiz app with real-time scoring and progress tracking  
+- Implemented API-based question fetching and navigation system  
 
 ---
 
 ### 🔹 Weather Forecast App
-**Technologies:** HTML, CSS, JavaScript, API  
-- Developed a weather app providing real-time and location-based forecasts.  
-- Integrated APIs for hourly and daily predictions with dynamic UI updates.  
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![API](https://img.shields.io/badge/API-000000?style=flat)
+
+</div>
+
+- Developed a weather app providing real-time and location-based forecasts  
+- Integrated APIs for hourly and daily predictions with dynamic UI updates  
 
 ---
 
 ### 🔹 Real-Time Chat Application
-**Technologies:** Node.js, WebSockets, React.js  
-- Developed a real-time chat system using WebSockets.  
-- Enabled instant messaging with live updates.  
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+</div>
+
+- Developed a real-time chat system using WebSockets  
+- Enabled instant messaging with live updates  
 
 ---
 
 ### 🔹 File Upload & Document Processing System
-**Technologies:** FastAPI, Python, MongoDB  
-- Built backend system for uploading and processing documents.  
-- Integrated text extraction and storage for further analysis.   
+
+<div align="center">
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+</div>
+
+- Built backend system for uploading and processing documents  
+- Integrated text extraction and storage for further analysis  
 
 ---
+
 
 ## 🛠️ Technical Expertise
 
